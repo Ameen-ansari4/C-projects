@@ -1,0 +1,6 @@
+.env
+*.o
+*.out
+*.exe
+*.a
+*.so
